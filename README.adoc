@@ -1,0 +1,7 @@
+
+
+
+
+=== Örnek terminal
+
+image::samp_out.png[width = 1080]
